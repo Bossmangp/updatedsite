@@ -1,11 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import DJGeeWebsite from './App';
 import './index.css';
+import DJGeeWebsite from './App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
-  <React.StrictMode>
-    <DJGeeWebsite />
-  </React.StrictMode>
-);
+root.render(<DJGeeWebsite />);
