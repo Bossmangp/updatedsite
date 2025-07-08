@@ -15,14 +15,14 @@ export default function DJGeeWebsite() {
                 <p className="text-lg italic">Bringing the Beat to Every Bash!</p>
               </header>
 
-              <nav className="flex justify-center gap-4 p-2 bg-gray-900 text-sm">
+              /*<nav className="flex justify-center gap-4 p-2 bg-gray-900 text-sm"> */
                 <a href="#about" className="hover:text-purple-400">About \n</a>
                 <a href="#services" className="hover:text-purple-400">Services \n</a>
                 <a href="#gallery" className="hover:text-purple-400">Gallery \n</a>
                 <a href="#reviews" className="hover:text-purple-400">Reviews \n</a>
                 <a href="#contact" className="hover:text-purple-400">Contact</a>
                 <Link to="/contract" className="hover:text-purple-400">Contract</Link>
-              </nav>
+              /*</nav>*/
 
               <section id="about" className="p-8 text-center">
                 <h2 className="text-2xl font-bold mb-2">About DJ Gee</h2>
