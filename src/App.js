@@ -18,7 +18,7 @@ export default function DJGeeWebsite() {
 <a href="#gallery" className="hover:text-purple-400">Gallery</a>
 <a href="#reviews" className="hover:text-purple-400">Reviews</a>
 <a href="#contact" className="hover:text-purple-400">Contact</a>
-<a href="/contract" className="hover:text-purple-400">Contract</a>
+/*<a href="/contract" className="hover:text-purple-400">Contract</a>*/
 </nav>
  
       {/* About */}
