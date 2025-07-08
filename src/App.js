@@ -16,10 +16,10 @@ export default function DJGeeWebsite() {
               </header>
 
               <nav className="flex justify-center gap-4 p-2 bg-gray-900 text-sm">
-                <a href="#about" className="hover:text-purple-400">About</a>
-                <a href="#services" className="hover:text-purple-400">Services</a>
-                <a href="#gallery" className="hover:text-purple-400">Gallery</a>
-                <a href="#reviews" className="hover:text-purple-400">Reviews</a>
+                <a href="#about" className="hover:text-purple-400">About %0D</a>
+                <a href="#services" className="hover:text-purple-400">Services %0D</a>
+                <a href="#gallery" className="hover:text-purple-400">Gallery %0D</a>
+                <a href="#reviews" className="hover:text-purple-400">Reviews %0D</a>
                 <a href="#contact" className="hover:text-purple-400">Contact</a>
                 <Link to="/contract" className="hover:text-purple-400">Contract</Link>
               </nav>
